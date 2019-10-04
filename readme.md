@@ -1,9 +1,13 @@
-#oregoncooler.website
+# github.com/oregon-cooler/oregoncooler.website
 
 This repository contains the [oregoncooler.com](https://Unseenia™.com) website.
 
 ## License
 
-Copyright 2019 © [Kabuki Starship™](https://kabukistarship.com); all rights reserved.
+Copyright 2019 © [Kabuki Starship™](https://kabukistarship.com).
 
-This file and the folder and repository it is contained in are private and contain intellectual property, trade secrets, copyrighted material, and other protected works, the IP, that are the property of the copyright holder. You must get explicit permission from the copyright holder to possess, view, modify, share, duplicate, discuss, or publicly display the IP.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
